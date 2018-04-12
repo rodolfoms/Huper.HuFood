@@ -1,14 +1,14 @@
-import { MeatPage } from './app.po';
+import { huperPage } from './app.po';
 
-describe('meat App', function() {
-  let page: MeatPage;
+describe('huper App', function() {
+  let page: huperPage;
 
   beforeEach(() => {
-    page = new MeatPage();
+    page = new huperPage();
   });
 
   it('should display message saying app works', () => {
     page.navigateTo();
-    expect(page.getParagraphText()).toEqual('mt works!');
+    expect(page.getParagraphText()).toEqual('huper works!');
   });
 });

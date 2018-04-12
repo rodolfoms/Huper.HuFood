@@ -1,8 +1,8 @@
-# HuFood - Huper Food
+# huper - Huper Food
 
 ### Cloning
 
-`git clone https://github.com/cod3rcursos/meat-app-starter.git`
+`git clone https://github.com/rodolfoms/huper.huper.git`
 
 ### Installing: packages
 
